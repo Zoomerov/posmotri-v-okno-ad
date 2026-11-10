@@ -1,5 +1,7 @@
 # Посмотри в окно
 
+https://github.com/Zoomerov/posmotri-v-okno-ad
+
 Учебный репозиторий проектной работы по HTML и CSS Яндекс Практикума.
 
 ## Структура
